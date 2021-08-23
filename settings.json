@@ -1,0 +1,15 @@
+{
+    "editor.fontSize": 18,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.colorTheme": "Learn with Sumit - Peace of the eye",
+    "editor.formatOnSave": true,
+    "kite.showWelcomeNotificationOnStartup": false,
+    "php.validate.executablePath": "C:/xampp/php/php.exe",
+    "json.maxItemsComputed": 500000,
+    "workbench.preferredDarkColorTheme": "Learn with Sumit - Peace of the eye - Dracula version",
+    "workbench.preferredHighContrastColorTheme": "Learn with Sumit - Peace of the eye - Dracula version",
+    "workbench.preferredLightColorTheme": "Learn with Sumit - Peace of the eye",
+    "window.autoDetectColorScheme": true,
+    "json.schemas": []
+}
